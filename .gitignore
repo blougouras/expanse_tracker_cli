@@ -1,0 +1,30 @@
+# Dados locais do projeto
+/data/*
+!/data/.gitkeep
+
+# Ambientes virtuais Python
+.venv/
+venv/
+env/
+ENV/
+
+# Cache e artefatos Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
