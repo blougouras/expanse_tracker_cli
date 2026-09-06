@@ -1,0 +1,2 @@
+class DespesaNaoEncontradaError(ValueError):
+    pass
